@@ -6345,4 +6345,23 @@
     "regx": "^[a-zA-Z0-9-]{2,60}$",
     "staticValues": ""
   }
+    {
+    "id": 500,
+    "resource": "EntraID/groups/security",
+    "optional": "UnitDept",
+    "exclude": "Org,Function",
+    "property": "",
+    "ShortName": "sga",
+    "scope": "security group",
+    "lengthMin": "3",
+    "lengthMax": "90",
+    "validText": ""Contains alphanumerics and hyphens.",
+    "invalidText": "Can't start or end with hyphen.",
+    "invalidCharacters": "",
+    "invalidCharactersStart": "-",
+    "invalidCharactersEnd": "-",
+    "invalidCharactersConsecutive": "",
+    "regx": "^[a-zA-Z0-9][a-zA-Z0-9-]{6,90}[a-zA-Z0-9]$",
+    "staticValues": ""
+  }
 ]
