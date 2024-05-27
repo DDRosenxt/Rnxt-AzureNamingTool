@@ -6355,7 +6355,7 @@
     "scope": "security group",
     "lengthMin": "3",
     "lengthMax": "90",
-    "validText": ""Contains alphanumerics and hyphens.",
+    "validText": "Contains alphanumerics and hyphens.",
     "invalidText": "Can't start or end with hyphen.",
     "invalidCharacters": "",
     "invalidCharactersStart": "-",
