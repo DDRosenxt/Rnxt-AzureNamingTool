@@ -6346,7 +6346,7 @@
     "staticValues": ""
   },
   {
-    "id": 500,
+    "id": 335,
     "resource": "EntraID/groups/security",
     "optional": "UnitDept",
     "exclude": "Org,Function",
